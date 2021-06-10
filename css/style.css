@@ -1,0 +1,21 @@
+h2{
+	font-size: 20px;
+	color: blue;
+
+}
+
+body{
+	color: black;
+
+	background-color: #33FCFF ;
+}
+
+p{
+	font-size: 15px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+
